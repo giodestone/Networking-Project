@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClientConnectionManager">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="ClientConnectionManager.ClientConnectionState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Networking\Client\ClientConnectionManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQ4AIAAACCAABhAAAAACBAACAIAgRAAAEUgAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Networking\Client\ClientConnectionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkEventDispatcher">
+    <Position X="4.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAAQCAAAACAAAABEIAAAQAAAAIgAkBiAMAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Networking\Client\NetworkEventDispatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerManager">
+    <Position X="9.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAARAAAAAAAAAAAAgCAAIIAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Networking\Client\PlayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyboardPlayerInput">
+    <Position X="9.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAgACAEAAAACAAAAAAAAAAAAAAIAAAwAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\KeyboardPlayerInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkPlayerInput">
+    <Position X="13" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="NetworkPlayerInput.POSITION_UPDATE_MODE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\NetworkPlayerInput.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BCQAgBCgADQAQCAAAICQBAIAAAAACACAAACgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NetworkPlayerInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConnectionStatusTextScript">
+    <Position X="5" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAiAAAAAAAAAAIAAAEAAAgAAIEAAgIIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Networking\ConnectionStatusTextScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
